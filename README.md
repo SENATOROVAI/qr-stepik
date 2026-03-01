@@ -62,9 +62,7 @@ $$
 Where:
 
 - $$Q \in \mathbb{R}^{m \times m}$$ — orthogonal matrix  
-  $$
   Q^T Q = I
-  $$
 - $$R \in \mathbb{R}^{m \times n}$$ — upper triangular matrix  
 
 ---
