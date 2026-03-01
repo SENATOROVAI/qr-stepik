@@ -1,4 +1,4 @@
-# stepik https://stepik.org/a/248961
+# stepik: https://stepik.org/a/248961
 
 # QR Factorization Solver — Course & Implementation
 
