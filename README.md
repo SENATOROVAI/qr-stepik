@@ -4,9 +4,9 @@
 
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Website](https://img.shields.io/badge/website-live-blue.svg)](https://senatorovai.github.io/singular-value-decomposition-svd-solver-course/)
+[![Website](https://img.shields.io/badge/website-live-blue.svg)](https://senatorovai.github.io/QR-decomposition-solver-course/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18818738.svg)](https://doi.org/10.5281/zenodo.18820364)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18818738.svg)](https://doi.org/10.5281/zenodo.18820512)
 
 > 🚀 Professional implementation of **QR Factorization** with mathematical derivation and Python solver.
 
