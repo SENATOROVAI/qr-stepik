@@ -1,4 +1,4 @@
-# stepik: https://stepik.org/a/248961
+#### https://SenatorovAI.com
 
 # QR Factorization Solver — Course & Implementation
 
